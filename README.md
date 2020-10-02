@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I code in Python and Java ...
+🔭 I code in Python and Java ... \n
 🌱 I’m currently learning Data Science...
 
 <!--
